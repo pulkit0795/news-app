@@ -1,0 +1,8 @@
+# Referenced at /Users/pulkitgoyal/newsapp/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:19
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/pulkitgoyal/newsapp/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:24
+-keep class com.example.newsapp.MainActivity { <init>(); }
+# Referenced at /Users/pulkitgoyal/newsapp/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:19
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at /Users/pulkitgoyal/newsapp/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:66
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }
